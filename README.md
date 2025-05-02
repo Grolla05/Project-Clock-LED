@@ -11,8 +11,8 @@
 
 * Felipe Grolla Freitas - RA: 24004846
 * Guilherme Oliveira Nogueira - RA: 25006542
-* Giovana - RA:
-* Henrique - RA:
+* Giovanna Lima Salvagnini - RA: 25015692
+* Henrique Spadaccia Chambó - RA: 25008942
 
 **Local e Ano:** CAMPINAS — SP, 2025
 
