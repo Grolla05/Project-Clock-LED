@@ -149,4 +149,4 @@ Assim, o projeto final unificou conhecimentos em retificação, estabilização 
 
 
 ## Relatorio no google docs
-https://docs.google.com/document/d/1XoNMRVHJ5W8g1v679qr8xJzX6RdXnsWyQHfxqDVIFlg/edit?tab=t.0
+https://docs.google.com/document/d/1XoNMRVHJ5W8g1v679qr8xJzX6RdXnsWyQHfxqDVIFlg/edit?usp=sharing
