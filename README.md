@@ -136,4 +136,17 @@ Para garantir interatividade, foi implementado um sistema de ajuste de horas, em
 
 Além disso, foi incorporado um indicador de potência da bateria com quatro LEDs e resistores de 1 kΩ associados em paralelo, permitindo uma leitura visual da carga restante com base na tensão disponível da fonte. Essa solução compacta e prática fornece uma noção clara do status energético do sistema.
 
-Assim, o projeto final unificou conhecimentos em retificação
+Assim, o projeto final unificou conhecimentos em retificação, estabilização de tensão, lógica sequencial com flip-flops, decodificação, multiplexação, controle de estado e sinalização por LEDs, evidenciando a viabilidade de construir um relógio digital funcional sem recorrer a componentes programáveis, somente com circuitos lógicos e dispositivos discretos.
+
+## 8. REFERÊNCIAS BIBLIOGRÁFICAS
+
+[1] BEHRENS, Frank Herman — 000 Proposta de projeto — Desafio.pdf, 20 de mar de 2025.
+[2] Newton C. Braga; Alexandre Braga — Monte um relógio digital (ART329), 20 de mar de 2025.
+[3] SHAIKH, Kaif — Life Of Electrician, 21 de fev. de 2025.
+[4] FERNANDES, Charles — Relógio com flip flops, contador de dias, horas, minutos e segundos com flip flops, 21 de jun. de 2019.
+[5] RAMBO, Wagner — RELÓGIO DIGITAL COMPLETO | Vídeo Aula #175, 23 de jun. de 2017.
+
+
+
+## Relatorio no google docs
+https://docs.google.com/document/d/1XoNMRVHJ5W8g1v679qr8xJzX6RdXnsWyQHfxqDVIFlg/edit?tab=t.0
