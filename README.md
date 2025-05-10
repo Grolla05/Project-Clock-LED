@@ -10,10 +10,10 @@ Data: 11/04/2025
 
 **Participantes do grupo:**
 
-Felipe Grolla Freitas         RA: 24004846
-Guilherme Oliveira Nogueira    RA: 25006542
-Giovanna Lima Salvagnini      RA: 25015692
-Henrique Spadaccia Chambó    RA: 25008942
+Felipe Grolla Freitas         RA: 24004846<br>
+Guilherme Oliveira Nogueira    RA: 25006542<br>
+Giovanna Lima Salvagnini      RA: 25015692<br>
+Henrique Spadaccia Chambó    RA: 25008942<br>
 
 **CAMPINAS — SP**
 **2025**
