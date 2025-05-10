@@ -138,14 +138,14 @@ Thus, the final project unified knowledge in rectification, voltage stabilizatio
 
 **8. BIBLIOGRAPHICAL REFERENCES**
 
-[1] &#9;BEHRENS, Frank Herman — 000 Proposta de projeto — Desafio.pdf, &#9;20 de mar de 2025.
-[2] &#9;Newton C. Braga; Alexandre Braga — Monte um relógio digital (ART329), &#9;20 de mar de 2025.
-[3] &#9;SHAIKH, Kaif — Life Of Electrician, &#9;21 de fev. de 2025.
-[4] &#9;APPLICATIONS, Electrical Electronics — How to Make Simple 12 Volt Battery Level Indicator Circuit? , &#9;23 de jul. de 2023.
-[5] &#9;APPLICATIONS, Electrical Electronics — How to Convert AC to DC?, &#9;20 de nov. de 2022.
-[6] &#9;FERNANDES, Charles — Relógio com flip flops, contador de dias, horas, minutos e segundos com flip flops, &#9;21 de jun. de 2019.
-[7] &#9;RAMBO, Wagner — RELÓGIO DIGITAL COMPLETO | Vídeo Aula \#175, &#9;23 de jun. de 2017.
-[8] &#9;HOROWITZ, P.; HILL, W. A arte da eletrônica: circuitos eletrônicos e microeletrônica. 3. ed. Porto Alegre: Bookman, 2017.
+[1] &#9;BEHRENS, Frank Herman — 000 Proposta de projeto — Desafio.pdf, &#9;20 de mar de 2025.<br>
+[2] &#9;Newton C. Braga; Alexandre Braga — Monte um relógio digital (ART329), &#9;20 de mar de 2025.<br>
+[3] &#9;SHAIKH, Kaif — Life Of Electrician, &#9;21 de fev. de 2025.<br>
+[4] &#9;APPLICATIONS, Electrical Electronics — How to Make Simple 12 Volt Battery Level Indicator Circuit? , &#9;23 de jul. de 2023.<br>
+[5] &#9;APPLICATIONS, Electrical Electronics — How to Convert AC to DC?, &#9;20 de nov. de 2022.<br>
+[6] &#9;FERNANDES, Charles — Relógio com flip flops, contador de dias, horas, minutos e segundos com flip flops, &#9;21 de jun. de 2019.<br>
+[7] &#9;RAMBO, Wagner — RELÓGIO DIGITAL COMPLETO | Vídeo Aula \#175, &#9;23 de jun. de 2017.<br>
+[8] &#9;HOROWITZ, P.; HILL, W. A arte da eletrônica: circuitos eletrônicos e microeletrônica. 3. ed. Porto Alegre: Bookman, 2017.<br>
 
 ---
 
