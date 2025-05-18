@@ -48,7 +48,8 @@ The project was designed to practically apply knowledge acquired in **Electronic
 
 ## ✨ System Demonstration
 
-<img src="https://github.com/Grolla05/Projeto-Relogio-LED/blob/main/Versions/LED-CLOCK%201.0/First_version.png">
+<img src="https://github.com/Grolla05/Projeto-Relogio-LED/blob/main/Versions/LED-CLOCK%201.0/First_version.png"> <br>
+<img src="https://github.com/Grolla05/Project-Clock-LED/blob/e0a157fb5e6551da37489a34484b8277115b4c01/Versions/LED-CLOCK%201.0/Firs_version_Proteus.png">
 
 ---
 
