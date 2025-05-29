@@ -37,12 +37,14 @@ The project was designed to practically apply knowledge acquired in **Electronic
 ## 🛠️ Components and Technologies
 
 - **D-type Flip-Flops**  
-- **Synchronous/Asynchronous Counters**  
+- **Synchronous/Asynchronous Counters**
+- **Pulse Generator (CLOCK)** 
 - **Frequency Dividers**  
 - **BCD to 7-Segment Decoders**  
-- **7-Segment LED Displays**  
+- **7-Segment LED Displays**
+- **Diode LED's**
 - **Rectifier Power Supply with Filter Capacitors**  
-- **Logic Gates (AND, OR, NOT, etc.)**
+- **Logic Gates (AND, NOT, etc...)**
 
 ---
 
