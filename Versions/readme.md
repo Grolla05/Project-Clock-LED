@@ -12,6 +12,8 @@
 - **1 - porta not**
 - **7 - diodos retificadores**
 - **1 - oscilador NE555**
--
+- **1 - resistor 1K**
+- **1 - transistor NPN BD135**
+- **1 - capacitor 220 uF**
 - **1 - Zener 1N4728**
 - **1 - transformador de 127v para 6v**
