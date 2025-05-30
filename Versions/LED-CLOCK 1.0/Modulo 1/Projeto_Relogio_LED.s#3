@@ -3224,13 +3224,6 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <pinref part="X23" gate="G$1" pin="O"/>
 </segment>
 </net>
-<net name="N$90" class="0">
-<segment>
-<pinref part="D12" gate="1" pin="A"/>
-<wire x1="375.92" y1="33.02" x2="375.92" y2="63.5" width="0.1524" layer="91"/>
-<pinref part="X34" gate="G$1" pin="Y"/>
-</segment>
-</net>
 <net name="N$93" class="0">
 <segment>
 <pinref part="X12" gate="G$1" pin="!Q"/>
@@ -3626,6 +3619,13 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <segment>
 <pinref part="D8" gate="A" pin="A"/>
 <pinref part="R1" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="N$6" class="0">
+<segment>
+<pinref part="D12" gate="1" pin="A"/>
+<pinref part="X34" gate="G$1" pin="Y"/>
+<wire x1="375.92" y1="63.5" x2="375.92" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
