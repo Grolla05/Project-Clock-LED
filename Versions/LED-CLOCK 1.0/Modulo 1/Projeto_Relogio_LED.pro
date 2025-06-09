@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/felipe/Documents/EAGLE/projects/Relogio_LED_Digital/Modulo 1/Projeto_Relogio_LED.brd
+Job           : C:/Users/fegro/Documents/EAGLE/projects/LED-CLOCK 1.0/Modulo 1/Projeto_Relogio_LED.brd
 
-Start at      : 01:09:46 (30/05/2025)
-End at        : 01:11:34 (30/05/2025)
-Elapsed time  : 00:01:43
+Start at      : 00:52:27 (6/9/2025)
+End at        : 00:57:54 (6/9/2025)
+Elapsed time  : 00:05:24
 
-Signals       :   115   RoutingGrid: 6 mil  Layers: 1
-Connections   :   159   predefined:  119 ( 0 Vias )
+Signals       :   115   RoutingGrid: 25 mil  Layers: 1
+Connections   :   203   predefined:  0 ( 0 Vias )
 
-Router memory :   3791456
+Router memory :   227040
 
-Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8 Optimize9Optimize10Optimize11Optimize12
+Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:18  00:01:09  00:00:02  00:00:01  00:00:01  00:00:02  00:00:01  00:00:02  00:00:01  00:00:01  00:00:01  00:00:01  00:00:02  00:00:01
-Number of Ripups  :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-max. Level        :         0         3         0         0         0         0         0         0         0         0         0         0         0         0
-max. Total        :         0         2         0         0         0         0         0         0         0         0         0         0         0         0
+Time per pass     :  00:05:22  00:00:01  00:00:00  00:00:00  00:00:01
+Number of Ripups  :      5692         0         0         0         0
+max. Level        :         9         0         0         0         0
+max. Total        :        38         0         0         0         0
 
-Routed            :         5         5         1         1         1         1         1         1         1         1         1         1         1         1
-Vias              :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-Resolution        :    78.0 %    78.0 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %    75.5 %
+Routed            :       149       149       149       150       150
+Vias              :         0         0         0         0         0
+Resolution        :    73.4 %    73.4 %    73.4 %    73.9 %    73.9 %
 
-Final             : 56.9% finished
+Final             : 73.9% finished
